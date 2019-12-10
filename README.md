@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
-<h1 align="center">🔎 Team6 🕵️‍♀️ 🕵</h1>  
+<h1 align="center">🔎 Team6</h1>  
 
 <p align="center">
   <a href="#Team6-Authors">Team6</a> •
