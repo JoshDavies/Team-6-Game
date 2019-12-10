@@ -33,12 +33,14 @@ https://medium.com/team-6
 ⚡️Download 'Xcode' from Apples's AppStore (requires MacOS - It's a large file, so go make a coffee!)  
 
 ⚡️ Clone this repository to your local terminal, then:
+
 ```bash
 # From /Team-6-Game repository:
 > cd JackTheRipper
 # Launch Xcode:
 > xed .
 ```
+
 ⚡️ Run tests using key shortcut '⌘cmd' + 'u'  
 ⚡️ Click the '▻' Play button (Top left menu) to launch the app in an iOS simulator.  
 ⚡️ Enjoy the App!
