@@ -9,9 +9,9 @@
   <a href="#technologies-used">Technologies Used</a>
 </p>
 
-<div align="center">
+<div align="center">  
 ![Screenshot](https://github.com/JoshDavies/Team-6-Game/blob/master/JTR.png?raw=true)
-</div>
+</div>  
 
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
 
