@@ -8,7 +8,8 @@
   <a href="#quickstart">Quickstart</a> •
   <a href="#technologies-used">Technologies Used</a>
 </p>
-------------
+
+-------------------------------------
 
 <div align="center">  
   
