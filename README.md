@@ -8,8 +8,8 @@
   <a href="#quickstart">Quickstart</a> •
   <a href="#technologies-used">Technologies Used</a>
 </p>
-   
-  
+------------
+
 <div align="center">  
   
 ![Screenshot](https://github.com/JoshDavies/Team-6-Game/blob/master/JTR.png?raw=true)  
