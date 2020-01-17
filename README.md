@@ -35,8 +35,7 @@
 .      
   
 # Coding with Swift & XCode
-
-<div align="left"> 
+<div align="left" width="200" height="400"> 
 
 ![](demogif.gif)  
 
