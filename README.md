@@ -32,9 +32,7 @@
 .   
 .  
 .  
-.     
-.   
-.  
+.      
 
 # test
 
@@ -43,7 +41,8 @@
 <div align="left"> 
   
 ![](demogif.gif)  
-  
+Personal space
+
 </div>
 
 Personal space
