@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" height="300" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
+<img align="right" height="600" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
 
 <p align="left">
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
@@ -25,7 +25,6 @@
 <br> 
 <div align="center">  
 
-![](demogif.gif)  
 
 </div>    
 
@@ -34,6 +33,9 @@
   
 <img style="width:128px;height:128px;" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">
   
+
+![](demogif.gif)  
+
 -------------
 
 ## Team6 Authors  
