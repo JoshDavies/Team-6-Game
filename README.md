@@ -35,9 +35,7 @@
 .      
   
 # test
-  
-<img align="left"; width="300" height="400" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
-  
+text here.    
 
 <div align="right"> 
 
@@ -46,6 +44,8 @@
 </div>
 
 Personal space
+
+<img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
 
 
 ## Card Wall:
