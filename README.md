@@ -36,7 +36,7 @@
 
 # test
 
-<div align="left" width: 50%;> 
+<div align="left"; width: 50%;> 
   
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
   
