@@ -16,25 +16,12 @@
 
 ---
 
-<img height="600" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
-
-<p align="right">
-📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
-</p>  
-
----
-
-
-# Aligning images
-
 ## `left` alignment
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="300" height="100" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
 
-This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-```
+📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
+
 
 ---
 
