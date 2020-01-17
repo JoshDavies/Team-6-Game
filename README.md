@@ -21,9 +21,10 @@
 <div align="center">  
   
 ![](demogif.gif)  
-![](Screenshot 2020-01-17 at 13.20.45.png)
 
 </div>  
+
+![](Screenshot 2020-01-17 at 13.20.45.png)
 
 ## Team6 Authors  
 🔎 [Alec Walker](https://github.com/AlecDWalker)  
