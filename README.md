@@ -35,7 +35,9 @@
 .      
   
 # Coding with Swift & XCode
+<p align="left">
 text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme.     
+</p>
 
 <div align="right"> 
 
