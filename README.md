@@ -20,13 +20,13 @@
 
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!  
 
-.   
-.    
-.    
-.    
-.     
-.  
-.     
+<h2>Team6 Authors</h2>  
+🔎 [Alec Walker](https://github.com/AlecDWalker)  
+🔎 [Danielle Inkster](https://github.com/DanielleInkster)  
+🔎 [Heli Sivunen](https://github.com/PacificRebel)  
+🔎 [Jay Issuree](https://github.com/JayIssuree)  
+🔎 [Josh Davies](https://github.com/JoshDavies)    
+🔎 [Roberta Mangiapane](https://github.com/robertamangiapane)   
 .   
 .  
 .  
@@ -36,7 +36,7 @@
 
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">
 
-<div align="right"> 
+<div align="left"> 
   
 ![](demogif.gif)  
   
