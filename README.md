@@ -24,7 +24,10 @@
 
 </div>  
 
-<img align="left" width="500" height="500" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">
+<div>  
+<img align="left" height="500" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">
+  
+</div>  
 
 ## Team6 Authors  
 🔎 [Alec Walker](https://github.com/AlecDWalker)  
