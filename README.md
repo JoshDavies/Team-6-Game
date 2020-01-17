@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
+<div>
+[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)  
+</div>
 
 <div align="center">  
   
