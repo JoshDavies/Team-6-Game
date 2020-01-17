@@ -40,10 +40,7 @@
 
 text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme.     
 
-Swift Code:
-
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
-
 
 ## Card Wall:
 🗂 Our team ticketing system helped us to collaborate and organise teamwork.  
@@ -75,5 +72,3 @@ https://medium.com/team-6
 ⚙️ Xcode v11.2  
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
-
-![](demogif.gif)  
