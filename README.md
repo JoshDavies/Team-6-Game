@@ -19,22 +19,18 @@
 
 ---
 
-<img align="left" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
+<img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
   
-<div align="right">  
+
   
 ![](demogif.gif)  
   
-</div>  
 
 ---
 
-<div>  
 <img style="width:128px;height:128px;" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">
   
-</div>  
- 
-<div>  
+   
 -------------
 
 ## Team6 Authors  
@@ -76,5 +72,3 @@ https://medium.com/team-6
 ⚙️ Xcode v11.2  
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
-
-</div>  
