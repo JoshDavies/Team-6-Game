@@ -17,9 +17,11 @@
 -------------------------------------
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
 
+
 <div align="center">  
   
 ![](demogif.gif)  
+![](Screenshot 2020-01-17 at 13.20.45.png)
 
 </div>  
 
