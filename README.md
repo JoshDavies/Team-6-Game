@@ -20,7 +20,7 @@
 
 <div align="center">  
   
-<img align="left" width="100" height="100" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
+<img align="left" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
   
 ![](demogif.gif)  
 
