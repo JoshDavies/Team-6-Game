@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
+
 <div align="center">  
   
 ![Screenshot](https://github.com/JoshDavies/Team-6-Game/blob/master/JTR.png?raw=true)  
@@ -12,11 +14,9 @@
   <a href="#technologies-used">Technologies Used</a>
 </p>
 
-[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
-
 ---
 
-<img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
+<img alighn:"left" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
 
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
   
