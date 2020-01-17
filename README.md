@@ -24,7 +24,7 @@
 
 </div>  
 
-![](Screenshot 2020-01-17 at 13.20.45.png)
+![](https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true)
 
 ## Team6 Authors  
 🔎 [Alec Walker](https://github.com/AlecDWalker)  
