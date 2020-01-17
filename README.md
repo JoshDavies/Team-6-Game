@@ -35,11 +35,8 @@
 .      
   
 # Coding with Swift & XCode
-<div align="left" width="200" height="400"> 
 
-![](demogif.gif)  
-
-</div>
+<img align="left" width="200" height="400" src="https://github.com/JoshDavies/Team-6-Game/blob/master/demogif.gif?raw=true">  
 
 text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme.     
 
@@ -78,3 +75,5 @@ https://medium.com/team-6
 ⚙️ Xcode v11.2  
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
+
+![](demogif.gif)  
