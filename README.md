@@ -17,6 +17,11 @@
 
 </div>  
 
+<div align="center">  
+  
+![](demogif.gif)  
+</div>  
+
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
 
 ## Team6 Authors
