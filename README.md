@@ -20,10 +20,12 @@
 
 <div align="center">  
   
-<img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
+<img align="left" src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.22.15.png?raw=true">
   
+<div align="right">  
 ![](demogif.gif)  
-
+  
+</div> 
 </div>  
 
 <div>  
