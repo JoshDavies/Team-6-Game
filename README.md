@@ -34,6 +34,7 @@
   
 </div>  
  
+<div>  
 -------------
 
 ## Team6 Authors  
@@ -75,3 +76,5 @@ https://medium.com/team-6
 ⚙️ Xcode v11.2  
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
+
+</div>  
