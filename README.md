@@ -20,6 +20,10 @@
   
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!  
 
+- Use geolocation to travel to the site of each crimescene and begin the next challenge in pursuit of the infamous Jack the Ripper. 
+- Use your detective skills to solve a different challenge at each site, unlocking the next location. 
+- Take care, wrong answers will cost you points towards ranking up your Dective level.   
+
 ## Team6 Authors
 
 🔎 [Alec Walker](https://github.com/AlecDWalker)  
@@ -28,11 +32,8 @@
 🔎 [Jay Issuree](https://github.com/JayIssuree)  
 🔎 [Josh Davies](https://github.com/JoshDavies)    
 🔎 [Roberta Mangiapane](https://github.com/robertamangiapane)   
-
-.   
-.  
-.  
-.      
+  
+   
   
 # Coding with Swift & XCode
 
