@@ -38,7 +38,10 @@
 
 <img align="left" width="200" height="400" src="https://github.com/JoshDavies/Team-6-Game/blob/master/demogif.gif?raw=true">  
 
-text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme. text here to see how layout will be displayed in readme.     
+- Unlike Ruby or JS; Swift is a static typed language - the type of a variable is known at compile-time, instead of at run-time. Once a variable has been declared with a type, it cannot be re-assigned to a different type.
+- Swift is strongly typed. When using a variable or passing a function an argument; Swift checks that it is of the correct type. 
+    eg. a string can't be passed to a function that expects an integer. 
+- Whilst this adds extra steps to development, it helps to catch mistakes & errors early.     
 
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
 
