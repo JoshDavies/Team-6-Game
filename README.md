@@ -47,7 +47,7 @@ Another of my contributions was to setup Travis, ensuring that it ran the correc
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
 
 ## TeamWork
-For effective team work we held morning stand-ups to decide what each member would work on that day. As well as afternoon code reviews, and evening retros to descuss progression.  
+For effective team work we held morning stand-ups to decide what each member would work on that day. As well as afternoon code reviews and evening retros to descuss progression.  
 [Click to Watch our Team Presentation (36:38)](https://www.facebook.com/MakersAcademy/videos/433426137603673/)
 
 ## Card Wall:
