@@ -20,8 +20,7 @@
   
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!  
 
-Use geolocation to travel to the site of each crimescene and begin the next challenge in pursuit of the infamous Jack the Ripper.  
-Use your detective skills to solve a different challenge at each site, unlocking the next location. Take care, wrong answers will cost points towards ranking up your Dective level.
+Use geolocation to travel to the site of each crimescene and begin the next challenge in pursuit of the infamous Jack the Ripper. Use your detective skills to solve a different challenge at each site, unlocking the next location. Take care, wrong answers will cost points towards ranking up your Dective level.
 
 ## Team6 Authors
 
@@ -38,13 +37,11 @@ Use your detective skills to solve a different challenge at each site, unlocking
 
 <img align="left" width="200" height="400" src="https://github.com/JoshDavies/Team-6-Game/blob/master/demogif.gif?raw=true">  
 
-One of my main contributions to the project was creating one of the five challenges (see demo gif) that was inspired by the game 'Guess Who'.  
-I wanted to create a challenge that was fully testable and presented a challenge both front & back end. The player can type in questions to a witness to identify the suspect by their unique features (eg. does he have a beard?)  
-I drew each of the nine men to have a unique combintation of features so that the player is able to catch the suspect by asking the right questions. 
-Choosing the correct suspect earns points and unlocks the next step of the game. A wrong answer looses points. 
-After getting the challenge functional, time was spent on refactoring the code (see below) and improving the user experience by simplifying the layout and disabling a wrong answer so that it cannot be chosen twice.
-The code works by registering keywords in the players question and returning the correct responce.
-The ViewController handles the effect of each button.  
+One of my main contributions to the project was creating one of the five challenges (see demo gif) that was inspired by the game 'Guess Who'. I wanted to create a challenge that was fully testable and presented a challenge both front & back end. The player can type in questions to a witness to identify the suspect by their unique features (eg. does he have a beard?)   
+I drew each of the nine men to have a unique combintation of features so that the player is able to catch the suspect by asking the right questions. Choosing the correct suspect earns points and unlocks the next step of the game. A wrong answer looses points. 
+  
+After getting the challenge functional, time was spent on refactoring the code (see below) and improving the user experience by simplifying the layout and disabling a wrong answer so that it cannot be chosen twice. The code works by registering keywords in the players question and returning the correct responce. The ViewController handles the effect of each button.  
+  
 Another of my contributions was to setup Travis, ensuring that it ran the correct script to test each merge request. Working as a team with multiple ongoing branches it was important to set this up early to avoid introducing errors into the Master. 
 
 <img src="https://github.com/JoshDavies/Team-6-Game/blob/master/Screenshot%202020-01-17%20at%2013.20.45.png?raw=true">  
